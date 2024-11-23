@@ -42,6 +42,37 @@ class OpenAIService:
         tokens = tokenizer.encode(formatted_content, [self.IM_START, self.IM_END, self.IM_SEP])
         return len(tokens)
     
+    # def completion(self, 
+    #             messages: List[Dict[str, str]], # List of message dictionaries containing role and content
+    #             model: str = "gpt-4o",         # Model name, defaults to gpt-4o
+    #             stream: bool = False,          # Whether to stream responses
+    #             json_mode: bool = False,       # Whether to force JSON output format
+    #             max_tokens: int = 4096         # Maximum tokens in response
+    #             ) -> Union[Dict[str, Any], AsyncIterable]:  # Returns either a dict or async stream
+    #     try:
+    #         # Initialize basic parameters that work for all models
+    #         params = {
+    #             "messages": messages,  # The conversation messages
+    #             "model": model,        # The model to use
+    #         }
+            
+    #         # Add additional parameters for models that support them
+    #         # o1-mini and o1-preview have limited parameter support
+    #         if model not in ['o1-mini', 'o1-preview']:
+    #             params.update({
+    #                 "stream": stream,      # Enable/disable streaming
+    #                 "max_tokens": max_tokens,  # Set max response length
+    #                 # Set response format - either JSON or plain text
+    #                 "response_format": {"type": "json_object"} if json_mode else {"type": "text"}
+    #             })
+
+    #         # Create and return the chat completion
+    #         # Create a chat completion using OpenAI's API
+    #         # This generates an AI response based on the conversation history in params["messages"]
+    #         # Returns a ChatCompletion object containing the model's response
+    #         chat_completion = self.openai.chat.completions.create(**params)
+    #         return chat_completion
+
     def completion(self, 
                 messages: List[Dict[str, str]], # List of message dictionaries containing role and content
                 model: str = "gpt-4o",         # Model name, defaults to gpt-4o
