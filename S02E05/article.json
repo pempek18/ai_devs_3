@@ -1,0 +1,33 @@
+
+{
+  "media": [
+    {
+      "link": "https://centrala.ag3nts.org/dane/i/rynek.png",
+      "description": "Original photograph capturing a sunset view from the market towards a church."
+    },
+    {
+      "link": "https://centrala.ag3nts.org/dane/i/rynek_glitch.png",
+      "description": "Recreated image showing slight damage and artifacts in the transmitted photo of the sunset."
+    },
+    {
+      "link": "https://centrala.ag3nts.org/dane/i/fruit01.png",
+      "description": "Image of the fruit before temporal transport."
+    },
+    {
+      "link": "https://centrala.ag3nts.org/dane/i/fruit02.png",
+      "description": "Image of the fruit after temporal transport, now missing its seeds."
+    },
+    {
+      "link": "https://centrala.ag3nts.org/dane/i/strangefruit.png",
+      "description": "An unexpected merged fruit resulting from the transmission of two different fruits."
+    },
+    {
+      "link": "https://centrala.ag3nts.org/dane/i/resztki.png",
+      "description": "Remnants of food found near the temporal chamber, believed to be left by the researcher Rafał Bomba."
+    },
+    {
+      "link": "https://centrala.ag3nts.org/dane/i/rafal_dyktafon.mp3",
+      "description": "Audio recording found on a dictaphone, contents unknown; possibly related to the incident involving Rafał Bomba."
+    }
+  ]
+}
