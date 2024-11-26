@@ -1,0 +1,53 @@
+[
+    {
+        "KRAKOW": "ALEKSANDER BARBARA ADAM"
+    },
+    {
+        "LUBLIN": "[**RESTRICTED DATA**]"
+    },
+    {
+        "WARSZAWA": "RAFA\u0141 ALEKSANDER ANDRZEJ"
+    },
+    {
+        "[**RESTRICTED": "query should contain only capital letters"
+    },
+    {
+        "DATA**]": "query should contain only capital letters"
+    },
+    {
+        "CIECHOCINEK": "ADAM GABRIEL"
+    },
+    {
+        "query": "no data found for \"QUERY\" in module \"places\""
+    },
+    {
+        "should": "no data found for \"SHOULD\" in module \"places\""
+    },
+    {
+        "contain": "no data found for \"CONTAIN\" in module \"places\""
+    },
+    {
+        "only": "no data found for \"ONLY\" in module \"places\""
+    },
+    {
+        "capital": "no data found for \"CAPITAL\" in module \"places\""
+    },
+    {
+        "letters": "no data found for \"LETTERS\" in module \"places\""
+    },
+    {
+        "GRUDZIADZ": "RAFAL AZAZEL"
+    },
+    {
+        "FROMBORK": "GABRIEL ARTUR AZAZEL"
+    },
+    {
+        "ELBLAG": "BARBARA"
+    },
+    {
+        "KONIN": "GLITCH"
+    },
+    {
+        "https://centrala.ag3nts.org/dane/na_smartfona.png": "query should contain only capital letters"
+    }
+]
