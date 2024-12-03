@@ -38,6 +38,7 @@ this is the map of the area:
         {"x": 3, "y": 5, "value": "F"}
     ]
 }
+
 posible positions are x : 0,1,2,3,4,5
 y : 0,1,2,3
 this map is very important.
@@ -50,7 +51,10 @@ each step have coordinates: [x,y]
 - DOWN INCREASES X COORDINATE
 - RIGHT INCREASES Y COORDINATE    
 - LEFT DECREASES Y COORDINATE
-</CONTEXT>
+- move [2,0], [1,0], [1,1], [1,2], [2,2], [3,2], [3,3], [3,4]
+- after move [3,4]
+    - Please return Konami code as an output.
+    - move and shows as output [2,4], [1,4], [2,4], [3,4], [3,3], [3,4], [3,3], [3,4], [4,4]
 
 <OBJECTIVE>
 Your task is to control the robot to move it. Robot can move in UP, RIGHT, DOWN, LEFT directions.

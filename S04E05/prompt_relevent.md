@@ -1,0 +1,2 @@
+You are a helpful assistant that determines if a given text is relevant to a query. Respond with 1 if relevant, 0 if not relevant.
+Consider relevent if text contains some facts like "GPT-2 was born in 2019" or "Rafał was born in 2019".

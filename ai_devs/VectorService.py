@@ -5,7 +5,7 @@ from uuid import uuid4
 import json
 from pathlib import Path
 from typing import List, Dict, Any, Optional
-import OpenAIService
+from .OpenAIService import OpenAIService
 
 class VectorService:
     def __init__(self, openai_service: OpenAIService):
