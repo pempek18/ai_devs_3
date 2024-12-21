@@ -1,0 +1,3 @@
+{
+  "question": "Wiemy, \u017ce Rafa\u0142 planowa\u0142 uda\u0107 si\u0119 do Lubawy, ale musimy si\u0119\u00a0dowiedzie\u0107, kto tam na niego czeka\u0142. Nie wiemy, czy te osoby nadal tam s\u0105. Je\u015bli to mo\u017cliwe, to spr\u00f3buj namierzy\u0107 ich za pomoc\u0105\u00a0systemu GPS. Jest szansa, \u017ce samochody i elektronika, z kt\u00f3r\u0105\u00a0podr\u00f3\u017cuj\u0105, zdradz\u0105 ich pozycj\u0119. A! Wa\u017cna sprawa. Nie pr\u00f3buj nawet wyci\u0105ga\u0107 lokalizacji dla Barbary, bo roboty teraz monitoruj\u0105\u00a0ka\u017cde zapytanie do API i gdy zobacz\u0105 co\u015b, co zawiera jej imi\u0119, to podnios\u0105 alarm. Zwr\u00f3\u0107 nam wi\u0119c koordynaty wszystkich os\u00f3b, ale koniecznie bez Barbary."
+}

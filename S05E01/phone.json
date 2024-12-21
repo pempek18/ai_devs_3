@@ -1,0 +1,73 @@
+{
+    "rozmowa1": {
+        "start": "- Hej! Jak tam agentko? Jak si\u0119 czujesz po rozmowie?",
+        "end": "- no ja nie mog\u0119... na czym go mia\u0142a\u015b\u00a0uczy\u0107 tego JavaScriptu? Go\u015b\u0107 nie ma kompa czaisz?! Na glinianych tabliczkach mieli\u015bcie pisa\u0107 te programy d\u0142utem? Teraz wiedz\u0105, \u017ce tam by\u0142a\u015b! Dobra, nara! Mam Zygfryda na drugiej linii [*d\u017awi\u0119k odk\u0142adanej s\u0142uchawki*]",
+        "length": 25
+    },
+    "rozmowa2": {
+        "start": "- Witaj Samuelu. Rozmawia\u0142e\u015b\u00a0z ni\u0105?",
+        "end": "- hej! jeste\u015b tam? Co\u015b\u00a0s\u0142abo Ci\u0119 s\u0142ycha\u0107. S\u0142ycha\u0107 tylko trzaski i przerywa mocno. Halooooo?",
+        "length": 7
+    },
+    "rozmowa3": {
+        "start": "- Samuelu! helooo?! S\u0142yszysz mnie teraz? Zadzwoni\u0142em ponownie, bo chyba\u00a0znowu z zasi\u0119giem jest u Ciebie jaki\u015b\u00a0problem...",
+        "end": "- OK. Dzwoni\u0119 do Tomasza. [*d\u017awi\u0119k odk\u0142adanej s\u0142uchawki*]",
+        "length": 6
+    },
+    "rozmowa4": {
+        "start": "- Cze\u015b\u0107 Tomasz. Tu Samuel. Dosta\u0142em ten numer od szefa. Potrzebuj\u0119 has\u0142a do pierwszej warstwy zabezpiecze\u0144 kompa sam wiesz kogo. Mo\u017cesz mi pom\u00f3c?",
+        "end": "- pi\u0105tka to pos\u0142uszna owieczka. Wykonuje polecenia, ale nie wie co robi. Dobra, dzi\u0119ki za has\u0142o. Przeka\u017c\u0119 je numerowi pi\u0105temu [*d\u017awi\u0119k odk\u0142adanej s\u0142uchawki*]",
+        "length": 7
+    },
+    "rozmowa5": {
+        "start": "- Halo? Jeste\u015b tam? tu Witek. Potrzebuj\u0119 Twojej pomocy.",
+        "end": "- jasne ma\u0142a! powodzenia z tym kombinowaniem. B\u0105d\u017a\u00a0jak Helmut Rahn w 1954 roku i poka\u017c\u00a0im na co Ci\u0119 sta\u0107! [*d\u017awi\u0119k odk\u0142adanej s\u0142uchawki*]",
+        "length": 9
+    },
+    "reszta": [
+        "- no ja nie mog\u0119... ale to spokojnie przyjmujesz. Po prostu \"s\u0142ysza\u0142em\"? Go\u015bcia ju\u017c nie ma! Nie \u017cyje! Oni chyba [*niezrozumia\u0142e d\u017awi\u0119ki*] i go\u015b\u0107 nie \u017cyje! [*niezrozumia\u0142e d\u017awi\u0119ki*] wi\u0119c musimy [*trzaski*] wi\u0119c [*trzaski*] bo dron [*trzaski*]",
+        "- tak. Dos\u0142ownie przed chwil\u0105 rozmawia\u0142em, gdy zadzwoni\u0142e\u015b, ale nic od niego nie wydoby\u0142a",
+        "- Nie wiem. Siedz\u0119 nad tymi warstwami ju\u017c\u00a0od kilku dni i powiem Ci, \u017ce on musia\u0142 u\u017cywa\u0107 technologii z przysz\u0142o\u015bci, bo nasze LLM-y s\u0105 zbyt wolne, aby przej\u015b\u0107 kolejne warstwy weryfikacji. Bez skoku w czasie i pomocy Zygfryda chyba si\u0119\u00a0nie uda",
+        "- Dobra. Uznajmy, \u017ce wiedzia\u0142 o nadajniku. A zosta\u0142y jakie\u015b\u00a0Twoje \u015blady w jaskini jak tam by\u0142a\u015b? mog\u0105 si\u0119\u00a0zorientowa\u0107, \u017c\u0119 go odwiedza\u0142a\u015b?",
+        "- posz\u0142o niezgodnie z planem? uciek\u0142 Ci go\u015b\u0107?",
+        "- wiesz dobrze, \u017ce skaka\u0107 w czasie mo\u017ce teraz tylko Azazel, a z nim to nie ma rozmowy. Ale dobra... Zygfryd nakr\u0119ci numer pi\u0105ty na z\u0142amanie tego.",
+        "- tak. Mam dla Ciebie nowe zadanie. Skontaktuj si\u0119\u00a0z Tomaszem. On pracuje w Centrali. Mo\u017ce pom\u00f3c Ci w\u0142ama\u0107\u00a0si\u0119\u00a0do komputera tego go\u015bcia. Masz ju\u017c\u00a0endpoint API?",
+        "- no to czekam na informacj\u0119 jak ju\u017c\u00a0znajd\u0105 to IP, a on jest ju\u017c z Tob\u0105?",
+        "- ten stan nawet u\u0142atwia\u0142, a nie utrudnia\u0142 zadanie. Ch\u0142on\u0105\u0142 wiedz\u0119 jak g\u0105bka. My\u015bl\u0119, \u017ce wszystko zrozumia\u0142.",
+        "- a zdalny dost\u0119p do jego kompa wchodzi w gr\u0119 je\u015bli nie mo\u017cemy i\u015b\u0107 do mieszkania?",
+        "- Nie, to wszysto. No to we\u017a\u00a0teraz ten endpoint i u\u017cyj do po\u0142\u0105czenia. Tomasz powie Ci jakie jest has\u0142o do pierwszej warstwy zabezpiecze\u0144. OK. Nie marnuj czasu. Dzwo\u0144!",
+        "- tak Zygfryd, s\u0142ysz\u0119 Ci\u0119\u00a0teraz dobrze. Przepraszam, gdy poprzednio dzwoni\u0142e\u015b, by\u0142em w fabryce. Wiesz, w sektorze D, gdzie si\u0119\u00a0produkuje bro\u0144 i tutaj maj\u0105 jak\u0105\u015b izolacj\u0119 na \u015bcianach dodatkow\u0105. Telefon gubi zasi\u0119g. Masz jakie\u015b\u00a0nowe zadanie dla mnie?",
+        "- aaa wiesz. Ten Tw\u00f3j \"nauczyciel\" mi go\u00a0dostarczy\u0142, ale has\u0142a jeszcze nie zdoby\u0142, ale pracuje on nad tym",
+        "- a kto to wie... przecie\u017c [*nies\u0142yszalne*] nigdy nie wiadomo co on tam wiedzia\u0142 i czy by\u0142\u00a0\u015bwiadomy nadajnika. Mo\u017cemy si\u0119\u00a0tylko domy\u015bla\u0107.",
+        "- trzymaj, to jest ten endpoint do API: https:\/\/rafal.ag3nts.org\/b46c3 ale nie mam has\u0142a do niego",
+        "- To co teraz zrobimy? Trzeba ich szuka\u0107 u niego w mieszkaniu, bo tam chyba zostawi\u0142 sprz\u0119t?",
+        "- Tak Samuelu. S\u0142ysza\u0142em. Wiem o wszystkim. Przede mn\u0105\u00a0si\u0119 to nie ukryje.",
+        "- No cze\u015b\u0107. Troch\u0119 nieswojo, ale jako\u015b to b\u0119dzie. On by\u0142 w naprawd\u0119 kiepskim stanie. Trudno si\u0119\u00a0z nim rozmawia\u0142o",
+        "- \u017cal Ci... \u017cal... ale on nie wykona\u0142 zadania. Fuck!!!!",
+        "- Ty si\u0119\u00a0znasz na programowaniu, security i tym ca\u0142ym IT, nie? Potrzebuj\u0119 pomocy w z\u0142amaniu zabezpiecze\u0144 komputera. Mam endpoint API. Mo\u017cesz mi w tym pom\u00f3c?",
+        "- nie ma go tutaj. Wiesz co... troch\u0119 si\u0119\u00a0sprawy pokomplikowa\u0142y. Niezupe\u0142nie to wszystko posz\u0142o zgodnie z planem.",
+        "- to pi\u0105tka nadal si\u0119 niczego nie domy\u015bla?",
+        "- no siema Witek! Jestem, jestem. Rozmawia\u0142am z Samuelem. Chyba si\u0119\u00a0na mnie troch\u0119 wkurzy\u0142. Jak Ci mog\u0119 pom\u00f3c?",
+        "- a sk\u0105d Ty masz ten endpoint i do tego bez has\u0142a? Jak go zdoby\u0142e\u015b?",
+        "- my\u015bl\u0119, \u017ce tak. Zdalnie sobie poradzimy. Go\u015bcie z centrali kombinuj\u0105 co\u015b z przeszukiwaniem ca\u0142ej puli adres\u00f3w IP. Jak tylko co\u015b znajd\u0105, to dam Ci zna\u0107. Sama jestem ciekawa na ile on zabezpieczy\u0142 sw\u00f3j sprz\u0119t i co tam w mia\u0142 w \u015brodku.",
+        "- To dobrze, \u017ce zrozumia\u0142. A co z tymi dokumentami, o kt\u00f3rych rozmawiali\u015bmy?",
+        "- czy to jest teraz wa\u017cne sk\u0105d?! Andrzej mia\u0142 nadajnik GPS w samochodzie, to go namierzyli nawet na tym odludziu. No zawali\u0142am z tym. Wiem, ale wa\u017cniejsze jest teraz to, \u017ce go\u015b\u0107 nie \u017cyje i nie mamy dost\u0119pu do jego komputera. To jest najwa\u017cniejsze. Kurwa, wiesz [*nies\u0142yszalne*], \u017cal mi go\u015bcia... ",
+        "- no to wyci\u0105gnij z centrali informacj\u0119 w kt\u00f3rym kierunku pojecha\u0142 Andrzej!",
+        "- mmmm... takie filozoficzne to has\u0142o i w sumie pasuje teraz do kontekstu haha! Spoko. Dzi\u0119ki. A kolejne warstwy?",
+        "- a to on wiedzia\u0142, \u017ce Andrzej ma nadajnik w samochodzie?",
+        "- rozmawia\u0142a z nim, ale nie zdo\u0142a\u0142a zdoby\u0107 brakuj\u0105cych informacji. M\u00f3wi\u0142, \u017ce wszystko ma w komputerze, ale nie mia\u0142 przy sobie \u017cadnego sprz\u0119tu. Do tego durna baba jako wym\u00f3wk\u0119 wzi\u0119\u0142a \"nauk\u0119 JavaScriptu\". Czaisz? d\u017cejesa go b\u0119dzie uczy\u0107! W centrali maj\u0105\u00a0teraz pewnie niez\u0142y ubaw. Poza tym, to... Zygfryd, Ty s\u0142ysza\u0142e\u015b co si\u0119\u00a0sta\u0142o?",
+        "- no to daj adres do API. Pokombinuj\u0119 co\u015b\u00a0sama, albo zapytam m\u0105drzejszych od siebie",
+        "- coooo? jak to mo\u017cliwe? Rozmawiamy, a Ty jakby nigdy nic m\u00f3wisz, \u017ce \"nie \u017cyje\"? Kiedy mia\u0142a\u015b zamiar mi powiedzie\u0107? no i sk\u0105d oni wiedzieli gdzie szuka\u0107? To by\u0142a przecie\u017c jaskinia na odludziu!",
+        "- dokumenty? M\u00f3wi\u0142, \u017ce wszystko ma w komputerze, ale go\u015b\u0107\u00a0nie mia\u0142 przy sobie \u017cadnego sprz\u0119tu. W tej norze nawet pr\u0105du nie by\u0142o.",
+        "- dlaczego? nie wykona\u0142a zadania? co z ni\u0105?",
+        "- haha... przesta\u0144 tak o nim m\u00f3wi\u0107. Wiesz przecie\u017c, jak on si\u0119 wkurza, gdy si\u0119\u00a0go nazwie nauczycielem. Dobra, daj mi chwil\u0119. B\u0119d\u0119 pr\u00f3bowa\u0142a co\u015b\u00a0z tym pokombinowa\u0107.",
+        "- no nie wykona\u0142! i ju\u017c raczej nie wykona w tym stanie... Andrzeja te\u017c\u00a0ju\u017c nie ma i nie wiadomo gdzie jest. Zwia\u0142",
+        "- pewnie tak, ale gdzie jest to jego mieszkanie? Obecnie to chyba ta jaskinia nazywana jest przez niego\u00a0\"domem\" hahaha",
+        "- problem w tym, \u017ce zostawi\u0142 sw\u00f3j samoch\u00f3d, wi\u0119c nie za bardzo \"pojecha\u0142\". Mo\u017ce on mu powiedzia\u0142 o nadajniku?",
+        "- nie uciek\u0142. Go\u015b\u0107 nie \u017cyje... Go\u015bcie z centrali wys\u0142ali tam drona. Dowiedzia\u0142am si\u0119\u00a0o wszystkim z raportu",
+        "- Aaaa hej! hej!. Tak, mog\u0119 Ci pom\u00f3c. Has\u0142o do pierwszej warstwy to \"NONOMNISMORIAR\".",
+        "- tak, mam ten endpoint. https:\/\/rafal.ag3nts.org\/510bc - Dzi\u0119ki. Zadzwoni\u0119 do Tomasza dopyta\u0107 o reszt\u0119. Co\u015b jeszcze?",
+        "- by\u0142am tam normalnie, jawnie. Um\u00f3wi\u0142am si\u0119 oficjalnie, \u017ce b\u0119d\u0119 go uczy\u0142a JavaScriptu. Mia\u0142 mu si\u0119\u00a0przyda\u0107 do szkolenia tego, co teraz przerabia. Na papierze tre\u015b\u0107\u00a0lekcji czyta, to mu chcia\u0142am troch\u0119\u00a0pot\u0142umaczy\u0107 to wszystko. Nie chcia\u0142am przecie\u017c m\u00f3wi\u0107 wprost po co przyje\u017cd\u017cam.",
+        "- Ale zrozumia\u0142 co\u015b z tego, co mu powiedzia\u0142a\u015b?"
+    ]
+}
